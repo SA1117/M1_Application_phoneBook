@@ -45,8 +45,7 @@ This application was developed in C language to avoid hassle of maintaining bulk
 **Detail Requirements**<br/>
 
 **High Level Requirements**<br/>
-![ID](https://user-images.githubusercontent.com/86568971/143252492-194ca944-1132-4a8d-af8a-991445c0b134.jpg)
+![ID](https://user-images.githubusercontent.com/86568971/143252492-194ca944-1132-4a8d-af8a-991445c0b134.jpg)<br/>
 
-
-
-
+**Low Level Requirements**<br/>
+![ID (1)](https://user-images.githubusercontent.com/86568971/143259017-23a20d63-39f0-4a04-aa53-36bb4413baa5.jpg)
